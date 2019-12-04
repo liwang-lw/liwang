@@ -2,11 +2,11 @@
 layout: page
 title: Symbolic computation
 header: Symbolic computation
-img_url: http://fanghuixing.github.com/assets/images
+img_url: http://github.com/liwang-lw/liwang/assets/images
 ---
 
 
-<img src="assets/images/13238568880001740m.jpg" style="FLOAT: right; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px">
+<img src="assets/images/psb.jpg" style="FLOAT: right; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px">
 
 
 ## Wang Li (李望)
