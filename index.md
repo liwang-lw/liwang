@@ -50,7 +50,7 @@ img_url: http://fanghuixing.github.com/assets/images
 	
 ## Publications:
 
-[1]Wang Li, Wensheng Yu. System Verification by Regional Mobius Transformation. CCDC2019: 31th Chinese Control and Decision Conference. IEEE, 2014, Vol26:463-466.
+[1]Wang Li, Wensheng Yu. System Verification by Regional Mobius Transformation. CCDC2019: 31th Chinese Control and Decision Conference. IEEE, 2019, Vol26:488-493.
 
 [2]Li W, Yang L, Yu W. A Mechanical Proof for Mordell Inequality Conjecture[C]. chinese control conference, 2018.
 
@@ -64,10 +64,6 @@ img_url: http://fanghuixing.github.com/assets/images
 [7] Wang Li, Wensheng Yu.A Sharper Parameter Bound for Belgian Chocolate Stabilization Problem. CCDC 2014: 26th Chinese Control and Decision Conference. IEEE, 2014, Vol26:459-462.  
 
 [8] Qiang Guan, Guannan He,Wang Li, Wensheng Yu.Some Remarks on Simultaneous Stabilization Problems of Linear Systems. CCDC 2014: 26th Chinese Control and Decision Conference. IEEE, 2014, Vol26:463-466. 
-
-
-
-
 
 
 ***
