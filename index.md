@@ -57,6 +57,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [3]Li W, Yang L, Yu W, A heuristical method for safety verification of nonlinear continuous systems[C]. chinese control conference, 2017: 2409-2414.
 
 [4] LI Wang, WANG Long, YU Wensheng. Some Open Problems on Simultaneous Stabilization of Linear Systems. Journal of Systems Science and Complexity. 2016, 29(2): 289–299. 
+
 [5] LI Wang, YU Wensheng.Complexity Analysis For Parameter Perturbation Methods. CCC 2015: 34th Chinese Control Conference. IEEE, 2015, Vol34:2925-2929.
 
 [6] LI Wang, YU Wensheng.Systems Safety Verification By Boundary Variation Analysis. CCC 2015: 34th Chinese Control Conference. IEEE, 2015, Vol34:2979-2982.
