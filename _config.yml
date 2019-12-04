@@ -1,1 +1,35 @@
-theme: jekyll-theme-minimal
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+markdown: kramdown
+permalink: /:year/:month/:day/:title 
+auto: true
+highlighter: rouge
+var:
+  archive_path: /archive.html
+  categories_path : /categories.html
+  tag_path : /tag.html
+
+production_url : https://github.com/liwang-lw # or your custom domain name
+title : Hybrid
+
+author :
+  name : Wang Li
+  email : liwang@zqu.edu.cn
+  github : liwang-lw
+  twitter : username
+  feedbuder : feedname
+  
+  
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#	
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-38748289-1' 	  	  
+exclude: .rbenv-version
