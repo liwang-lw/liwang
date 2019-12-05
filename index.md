@@ -42,7 +42,7 @@ img_url: http://github.com/liwang-lw/liwang/assets/images
 	
 *    Hunan Normal University:
      
-	 BC, Computer Science
+	 Mathematics and Applied Mathematics，Ba
      2002 - 2006
 
 	 
